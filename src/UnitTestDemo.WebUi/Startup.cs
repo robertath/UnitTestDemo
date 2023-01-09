@@ -15,6 +15,7 @@ namespace Pluralsight.UnitTestDemo.WebUi
 {
     public class Startup
     {
+        //Test build
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;

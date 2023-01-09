@@ -1,8 +1,7 @@
 [documentation]update readme.md
 
 ### Build CI Setup triggers:
-- main commits
-
+- main commits //request work item
 
 ### Azure
 resource_group: rg-calculator

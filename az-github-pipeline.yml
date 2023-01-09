@@ -1,4 +1,4 @@
-#[setup-pipeline] update stage dev, qa
+
 trigger:
 - main
 
